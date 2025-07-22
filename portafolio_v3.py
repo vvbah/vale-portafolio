@@ -32,7 +32,8 @@ if pagina_actual == "Sobre Mí":
     st.write("""
     Hola! Soy Valentina Vergara, Ingeniera Comercial con Máster en Business Analytics de la Universidad Adolfo Ibáñez. Actualmente, me desempeño como **Retail Account Executive** en UpTheTrade, gestionando la cuenta de **cinco retailers del canal moderno**, distribuidos en tres sectores: **supermercados**, **farmacias** y **tiendas de conveniencia**.  
              
-    Mi objetivo principal es **transformar datos de mercado en insights accionables** que permitan a mis clientes tomar decisiones estratégicas para impulsar su crecimiento en el competitivo mercado minorista. Para lograrlo, utilizo herramientas digitales como **MS Excel** y **Tableau**, diseñando reportes personalizados y visualizaciones que facilitan la toma de decisiones basadas en datos.  
+    Mi objetivo principal es **transformar datos de mercado en insights accionables** que permitan a mis clientes tomar decisiones estratégicas para impulsar su crecimiento en el competitivo mercado minorista. Para lograrlo, utilizo herramientas digitales como **MS Excel** y **Tableau**, diseñando reportes personalizados y visualizaciones que facilitan la toma de decisiones basadas en datos. 
+    Además, logré automatizar la carga de diversos reportes semanales y mensuales. 
              
     Mi experiencia profesional ha sido clave para fortalecer mi interés y habilidades en el análisis de datos:  
      + Durante mi práctica profesional y proyecto de título en Maxxa, desarrollé un modelo de *machine learning* para predecir la fuga mensual de clientes para un **Software de Gestión Empresarial**, además de automatizar envíos de KPI al gerente comercial y cargar bases de datos utilizando **Python** y **PostgreSQL**.  
